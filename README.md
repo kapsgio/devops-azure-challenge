@@ -1,4 +1,4 @@
-# Azure Challenge 20200921
+# DevOps Challenge 20200921
 
 Por favor, complete o seguinte desafio para a sua entrevista online. Terá de documentar o seu processo e apresentá-lo na entrevista (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado das tarefas no servidor durante a entrevista técnica.
 
@@ -10,7 +10,7 @@ Os resultados destas tarefas são menos importantes do que o seu processo de pen
 A sua tarefa consiste em configurar um servidor baseado na nuvem e instalar e configurar alguns componentes básicos.
 
 
-1. Configurar um servidor na Azure (recomenda-se o freetier) executando uma versão Ubuntu LTS.
+1. Configurar um servidor na Azure/AWS/GCP (de acordo com o solicitado na vaga) executando uma versão Ubuntu LTS. Recomenda-se utilizar o freetier.
 2. Instalar e configurar qualquer software que você recomendaria em uma configuração de servidor padrão sob as perspectivas de segurança, desempenho, backup e monitorização.
 3. Instalar e configurar o nginx para servir uma página web HTML estática.
 4. Utilizar ferramentas de automatização como Ansible e/ou Terraform.
