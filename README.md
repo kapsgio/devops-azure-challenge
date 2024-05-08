@@ -1,12 +1,14 @@
-# DevOps Challenge 20200921
+# DevOps Azure Challenge
 
-Por favor, complete o seguinte desafio para a sua entrevista online. Terá de documentar o seu processo e apresentá-lo na entrevista (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado das tarefas no servidor durante a entrevista técnica.
+Este é um desafio para testar seus conhecimentos de DevOps na Azure;
+
+O objetivo é avaliar a sua forma de estruturação e autonomia em decisões para construir algo escalável utilizando o Infra as Code.
+
+[SPOILER] As instruções de entrega e apresentação do challenge estão no final deste Readme (=
 
 ### Antes de começar
  
-- Prepare o projeto para ser disponibilizado no Github, copiando o conteúdo deste repositório para o seu (ou utilize o fork do projeto e aponte para o Github);
-- O projeto deve utilizar a Linguagem especifica na sua Vaga (caso esteja se candidatando). Por exempo: Python, R, Scala e entre outras;
-- Considere como deadline 5 dias a partir do início do desafio. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
+- Considere como deadline da avaliação a partir do início do teste. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
 - Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
 
 
@@ -15,7 +17,7 @@ Por favor, complete o seguinte desafio para a sua entrevista online. Terá de do
 A sua tarefa consiste em configurar um servidor baseado na nuvem e instalar e configurar alguns componentes básicos.
 
 
-1. Configurar um servidor na Azure/AWS/GCP (de acordo com o solicitado na vaga) executando uma versão Ubuntu LTS. Recomenda-se utilizar o freetier.
+1. Configurar um servidor na Azure, executando uma versão Ubuntu LTS.
 2. Instalar e configurar qualquer software que você recomendaria em uma configuração de servidor padrão sob as perspectivas de segurança, desempenho, backup e monitorização.
 3. Instalar e configurar o nginx para servir uma página web HTML estática.
 4. Utilizar ferramentas de automatização como Ansible e/ou Terraform.
@@ -26,7 +28,6 @@ A sua tarefa consiste em configurar um servidor baseado na nuvem e instalar e co
 Utilizando uma linguagem de script à sua escolha, construa um projeto (servido através do nginx) que possa relatar estatísticas operacionais básicas sob a forma de um objeto JSON.
 
 As estatísticas devem incluir (como mínimo):
-
 
 
 1. Carga actual da CPU, tempo de espera e utilização de memória (opcionalmente reportado como slab, cache, RSS, etc.)
@@ -49,15 +50,26 @@ O seu código deve ser entregue a um repositório Git que demonstram uma compree
 - Configurar Tests Unitários durante o processo de CI;
 - Criar uma imagem do Docker com as configurações do Server;
 
-## Instruções para a Apresentação: 
+## Readme do Repositório
 
-1. Será necessário compartilhar a tela durante a vídeo chamada;
-2. Deixe todos os projetos de solução previamente abertos em seu computador antes de iniciar a chamada;
-3. Deixe os ambientes configurados e prontos para rodar; 
-4. Prepara-se pois você será questionado sobre cada etapa e decisão do Challenge;
-5. Prepare uma lista de perguntas, dúvidas, sugestões de melhorias e feedbacks (caso tenha).
+- Deve conter o título do projeto
+- Uma descrição sobre o projeto em frase
+- Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
+- Como instalar e usar o projeto (instruções)
+- Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
+- Se está usando github pessoal, referencie que é um challenge by coodesh:  
+
+>  This is a challenge by [Coodesh](https://coodesh.com/)
+
+## Finalização e Instruções para a Apresentação
+
+1. Adicione o link do repositório com a sua solução no teste
+2. Adicione o link da apresentação do seu projeto no README.md.
+3. Verifique se o Readme está bom e faça o commit final em seu repositório;
+4. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
 
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com. 
+Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
+
 
