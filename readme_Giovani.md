@@ -15,7 +15,7 @@ Acessar o Portal Azure e autenticar com a conta, acessar Virtual machines e sele
 • Máquina com IP público para eu conseguir acessá-la (opção para remover o IP público é criar um servidor Bastion e utilizado como ponte de acesso)
 • Auto-shutdown desabilitado
 • Tag - Nome = Servidor Ubuntu nginx
- Review and Create.
+ Review and Create. (fiz e funcionou!)
 
 Após máquina criada ir em Networking > Networking Settings e selecionar somente o meu IP para conectar à VM, existem diversas maneiras de conectar, inclusive de dentro do powershell Windows, liberando permissão de acesso a chave.pem
 
@@ -77,3 +77,4 @@ Part 3 – Continuous Delivery
 
 Também não é o meu forte, apesar de eu gostar e desenhos de arquitetura com topologia de redes conexão entre serviços, o CI/CD é mais pro lado de desenvolvedor e eu, como arquiteto não tenho grandes habilidades de desenvolvimento, meu forte é gerenciamento/administração/planejamento, parte analítica tendo domínio de várias ferramentas do Azure, mas pouco relacionado à desenvolvimento
 Estarei fazendo algum curso de Devops e Github em breve..
+tempo gasto no teste, aproximadamente 2 horas.
