@@ -75,6 +75,6 @@ Minhas habilidades de script para estas estatísticas não são o suficiente, n�
 
 Part 3 – Continuous Delivery
 
-Também não é o meu forte, apesar de eu gostar e desenhos de arquitetura com topologia de redes conexão entre serviços, o CI/CD é mais pro lado de desenvolvedor e eu, como arquiteto não tenho grandes habilidades de desenvolvimento, meu forte é gerenciamento/administração/planejamento, parte analítica tendo domínio de várias ferramentas do Azure, mas pouco relacionado à desenvolvimento
+Também não é o meu forte, apesar de eu gostar e desenhar arquiteturas com topologia de redes conexão entre serviços, o CI/CD é mais pro lado de desenvolvedor e eu, como arquiteto não tenho grandes habilidades de desenvolvimento, meu forte é gerenciamento/administração/planejamento, parte analítica tendo domínio de várias ferramentas do Azure, mas pouco relacionado à desenvolvimento
 Estarei fazendo algum curso de Devops e Github em breve..
 tempo gasto no teste, aproximadamente 2 horas.
